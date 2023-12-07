@@ -55,7 +55,7 @@ crecimiento en ese año.
 
 ---
 
-![Gráfica1](https://github.com/UP210709/Proyecto-Mate/blob/main/Imagenes/Grafica3.png)  
+![Gráfica1](https://github.com/UP210709/Proyecto-Mate/blob/main/Imagenes/Grafica4.png)  
 
 
 La gráfica tiene dos líneas, una azul y una roja:
