@@ -58,12 +58,12 @@ crecimiento en ese año.
 ![Gráfica1](https://github.com/UP210709/Proyecto-Mate/blob/main/Imagenes/Grafica4.png)  
 
 
-La gráfica tiene dos líneas, una azul y una roja:
+La gráfica tiene dos líneas, una azul y una roja:<br>
 Puntos azules: Representa los datos históricos. Se observa una tendencia a la baja desde
 1990 hasta 2005, luego una tendencia al alza desde 2005 hasta 2010, y finalmente una
-tendencia a la baja desde 2010 hasta 2025.
+tendencia a la baja desde 2010 hasta 2025.<br>
 Línea Roja: Representa la predicción. Se observa una tendencia similar a la de la línea
-azul.
+azul.<br>
 En resumen, la gráfica muestra que las muertes debido a guerras y terrorismo han
 disminuido en general desde 1990, con un pico alrededor de 2010. Según las predicciones,
 esta tendencia aumentará un poco 2025. Sin embargo, es importante recordar que estas son
