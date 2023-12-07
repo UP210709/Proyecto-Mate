@@ -25,8 +25,10 @@ siguientes
 ![Gráfica](https://github.com/UP210709/Proyecto-Mate/blob/main/Imagenes/Tendencias%20de%20muertes.png)  
 
 ---
+
 Se decidió realizar un análisis de en específico de 4 causas, la primera es muertes por
 guerras o terrorismo, primero se realizó la gráfica de tendencias solo en México.
+
 ---
 
 ## Muertes por Guerra/Terrorismo
