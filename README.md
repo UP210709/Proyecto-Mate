@@ -22,7 +22,7 @@ por año categorizadas por causa, la cual fue fácil de encontrar mediante kaggl
 Después se graficó las tendencias por cada causa de muerte, los resultados son los
 siguientes
 
-![Gráfica](https://github.com/UP210709/Proyecto-Mate/blob/main/Imagenes/Tendenciasmuertes.png)  
+![Gráfica](https://github.com/UP210709/Proyecto-Mate/blob/main/Imagenes/TendenciasMuertes.png)  
 
 ---
 ## Muertes por Guerra/Terrorismo
