@@ -1,6 +1,10 @@
-## Analisis de Causas de muerte en Méxco
+# Analisis de Causas de muerte en Méxco
 ---
-# Introducción
+## Aqui se presenta la primera parte del análisis realizado a una base de datos sobre las diferentes causas
+de muertes en el mundo, ese estudio se enfocó en la localización de México y se sacaron los siguientes datos.
+Para continuar con el estudio, el archivo se encuentra adentro del repositorio.
+---
+## Introducción
 
 En el presente análisis, exploraremos las
 principales causas de muerte en México para
@@ -13,7 +17,7 @@ México en comparación con el resto del mundo.
 
 ---
 
-# Análisis de la base de datos
+## Análisis de la base de datos
 
 Lo primero que se realizó fue encontrar una base de datos que contenga las muertes
 por año categorizadas por causa, la cual fue fácil de encontrar mediante kaggle.
@@ -23,7 +27,7 @@ siguientes
 ![Gráfica](https://github.com/UP210709/Proyecto-Mate/blob/main/Imagenes/Tendencias%20de%20muertes.png)  
 
 ---
-# Muertes por Guerra/Terrorismo
+## Muertes por Guerra/Terrorismo
 
 Se decidió realizar un análisis de en específico de 4 causas, la primera es muertes por
 guerras o terrorismo primero se realizó la gráfica de tendencias solo en México.
