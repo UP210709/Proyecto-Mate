@@ -1,5 +1,5 @@
 ## Analisis de Causas de muerte en Méxco
---
+---
 #Introducción
 
 En el presente análisis, exploraremos las
@@ -11,7 +11,7 @@ permitiendo una comprensión más profunda de
 los desafíos y oportunidades que enfrenta
 México en comparación con el resto del mundo.
 
---
+---
 
 #Análisis de la base de datos
 
