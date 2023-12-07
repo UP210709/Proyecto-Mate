@@ -1,7 +1,6 @@
 # Analisis de Causas de muerte en Méxco
 ---
-## Aqui se presenta la primera parte del análisis realizado a una base de datos sobre las diferentes causas
-de muertes en el mundo, ese estudio se enfocó en la localización de México y se sacaron los siguientes datos.
+### Aqui se presenta la primera parte del análisis realizado a una base de datos sobre las diferentes causas de muertes en el mundo, ese estudio se enfocó en la localización de México y se sacaron los siguientes datos.
 Para continuar con el estudio, el archivo se encuentra adentro del repositorio.
 ---
 ## Introducción
